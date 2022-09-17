@@ -1,0 +1,22 @@
+{
+  "name": "question1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phuc0906/question1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phuc0906/question1/issues"
+  },
+  "homepage": "https://github.com/Phuc0906/question1#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
